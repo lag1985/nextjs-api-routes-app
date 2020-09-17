@@ -9,3 +9,7 @@
 .hello:hover {
   background: #ccc;
 }
+
+.center {
+  justify-content: center;
+}
